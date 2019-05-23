@@ -2,4 +2,4 @@
 ## This is a test
 ### This is a test
 
-$$ 2/3$$
+  $2/3$
