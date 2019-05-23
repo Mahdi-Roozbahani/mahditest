@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: My website
 description: A virtual proof that name is awesome!
+author:
+  name: Mahdi Roozbahani
